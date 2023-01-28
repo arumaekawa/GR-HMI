@@ -1,0 +1,4 @@
+export PRETRAIN_DATA_DIR='./pretrain_data'
+export PRETRAINED_MODEL_ROOT_DIR='./pretrained_models'
+export CL_DATA_DIR='./cl_data'
+export CL_MODEL_ROOT_DIR='./cl_models'
